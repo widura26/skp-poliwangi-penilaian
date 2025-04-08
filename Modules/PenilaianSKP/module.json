@@ -1,0 +1,13 @@
+{
+    "name": "PenilaianSKP",
+    "alias": "penilaianskp",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PenilaianSKP\\Providers\\PenilaianSKPServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
